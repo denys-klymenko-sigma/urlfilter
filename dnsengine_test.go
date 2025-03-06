@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/AdguardTeam/golibs/testutil"
-	"github.com/AdguardTeam/urlfilter/filterlist"
-	"github.com/AdguardTeam/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
@@ -633,7 +633,7 @@ func BenchmarkDNSEngine_Match(b *testing.B) {
 	//
 	//	goos: darwin
 	//  goarch: arm64
-	//  pkg: github.com/AdguardTeam/urlfilter
+	//  pkg: github.com/denys-klymenko-sigma/urlfilter
 	//  BenchmarkDNSEngine_Match
 	//  BenchmarkDNSEngine_Match-8   	      34	  33710070 ns/op	 3557557 B/op	   81918 allocs/op
 }

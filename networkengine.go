@@ -1,9 +1,9 @@
 package urlfilter
 
 import (
-	"github.com/AdguardTeam/urlfilter/filterlist"
-	"github.com/AdguardTeam/urlfilter/lookup"
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/lookup"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // NetworkEngine is the engine that supports quick search over network rules.

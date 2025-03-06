@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/AdguardTeam/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
@@ -98,7 +98,7 @@ func BenchmarkExtractHostname(b *testing.B) {
 	//
 	// goos: darwin
 	// goarch: arm64
-	// pkg: github.com/AdguardTeam/urlfilter/filterutil
+	// pkg: github.com/denys-klymenko-sigma/urlfilter/filterutil
 	// BenchmarkExtractHostname
 	// BenchmarkExtractHostname/no_std
 	// BenchmarkExtractHostname/no_std-8         	42377496	        27.90 ns/op	       0 B/op	       0 allocs/op

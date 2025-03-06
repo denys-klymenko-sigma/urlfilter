@@ -1,6 +1,6 @@
 package filterlist
 
-import "github.com/AdguardTeam/urlfilter/rules"
+import "github.com/denys-klymenko-sigma/urlfilter/rules"
 
 // RuleStorageScanner scans multiple RuleScanner instances
 // The rule index is built from the rule index in the list + the list ID

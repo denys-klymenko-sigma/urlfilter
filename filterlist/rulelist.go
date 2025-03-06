@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/AdguardTeam/golibs/errors"
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // On Linux the size of the data block is usually 4KB

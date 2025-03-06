@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // RuleScanner implements an interface for reading filtering rules.

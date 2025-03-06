@@ -1,4 +1,4 @@
-module github.com/AdguardTeam/urlfilter
+module github.com/denys-klymenko-sigma/urlfilter
 
 go 1.23.2
 

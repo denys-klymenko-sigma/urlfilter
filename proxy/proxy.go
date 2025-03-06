@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/AdguardTeam/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
 
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/gomitmproxy"
-	"github.com/AdguardTeam/urlfilter"
+	"github.com/denys-klymenko-sigma/urlfilter"
 )
 
 const (

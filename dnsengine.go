@@ -4,9 +4,9 @@ import (
 	"net/netip"
 
 	"github.com/AdguardTeam/golibs/syncutil"
-	"github.com/AdguardTeam/urlfilter/filterlist"
-	"github.com/AdguardTeam/urlfilter/filterutil"
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // DNSEngine combines host rules and network rules and is supposed to quickly find

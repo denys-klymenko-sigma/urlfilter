@@ -5,7 +5,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/AdguardTeam/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
 )
 
 // clients is a set representation for $client modifier.

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/AdguardTeam/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
 	"github.com/stretchr/testify/assert"
 )
 

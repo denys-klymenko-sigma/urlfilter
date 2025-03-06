@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/AdguardTeam/golibs/errors"
-	"github.com/AdguardTeam/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
 	"github.com/miekg/dns"
 )
 

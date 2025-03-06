@@ -4,7 +4,7 @@ import (
 	"net/netip"
 	"strings"
 
-	"github.com/AdguardTeam/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
 )
 
 // HostRule is a structure for simple host-level rules (i.e. /etc/hosts syntax).

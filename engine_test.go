@@ -3,9 +3,9 @@ package urlfilter
 import (
 	"testing"
 
-	"github.com/AdguardTeam/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
 
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 
 	"github.com/stretchr/testify/assert"
 )

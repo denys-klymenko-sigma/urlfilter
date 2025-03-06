@@ -1,7 +1,7 @@
 [![Code Coverage](https://img.shields.io/codecov/c/github/AdguardTeam/urlfilter/master.svg)](https://codecov.io/github/AdguardTeam/urlfilter?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/AdguardTeam/urlfilter)](https://goreportcard.com/report/AdguardTeam/urlfilter)
-[![GolangCI](https://golangci.com/badges/github.com/AdguardTeam/urlfilter.svg)](https://golangci.com/r/github.com/AdguardTeam/urlfilter)
-[![Go Doc](https://godoc.org/github.com/AdguardTeam/urlfilter?status.svg)](https://godoc.org/github.com/AdguardTeam/urlfilter)
+[![Go Report Card](https://goreportcard.com/badge/github.com/denys-klymenko-sigma/urlfilter)](https://goreportcard.com/report/AdguardTeam/urlfilter)
+[![GolangCI](https://golangci.com/badges/github.com/denys-klymenko-sigma/urlfilter.svg)](https://golangci.com/r/github.com/denys-klymenko-sigma/urlfilter)
+[![Go Doc](https://godoc.org/github.com/denys-klymenko-sigma/urlfilter?status.svg)](https://godoc.org/github.com/denys-klymenko-sigma/urlfilter)
 
 # AdGuard content blocking library
 

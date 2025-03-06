@@ -3,9 +3,9 @@ package lookup
 import (
 	"strings"
 
-	"github.com/AdguardTeam/urlfilter/filterlist"
-	"github.com/AdguardTeam/urlfilter/filterutil"
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // DomainsTable is a lookup table that uses domains from the $domain modifier

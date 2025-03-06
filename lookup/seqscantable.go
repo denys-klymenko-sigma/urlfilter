@@ -1,7 +1,7 @@
 package lookup
 
 import (
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // SeqScanTable is basically just a list of network rules that are scanned

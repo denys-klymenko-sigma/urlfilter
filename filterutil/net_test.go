@@ -80,7 +80,7 @@ func BenchmarkIsProbablyIP(b *testing.B) {
 
 	// goos: darwin
 	// goarch: amd64
-	// pkg: github.com/AdguardTeam/urlfilter/filterutil
+	// pkg: github.com/denys-klymenko-sigma/urlfilter/filterutil
 	// cpu: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
 	// BenchmarkIsProbablyIP/random-12		6803722		174.9 ns/op		0 B/op		0 allocs/op
 }

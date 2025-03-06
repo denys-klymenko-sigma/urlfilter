@@ -2,7 +2,7 @@
 // speed in the engines.
 package lookup
 
-import "github.com/AdguardTeam/urlfilter/rules"
+import "github.com/denys-klymenko-sigma/urlfilter/rules"
 
 // Table is a common interface for all lookup tables.
 type Table interface {

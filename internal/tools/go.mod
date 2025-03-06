@@ -1,4 +1,4 @@
-module github.com/AdguardTeam/urlfilter/internal/tools
+module github.com/denys-klymenko-sigma/urlfilter/internal/tools
 
 go 1.23.2
 

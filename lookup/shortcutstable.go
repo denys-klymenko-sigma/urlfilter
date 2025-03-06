@@ -4,9 +4,9 @@ import (
 	"math"
 	"strings"
 
-	"github.com/AdguardTeam/urlfilter/filterlist"
-	"github.com/AdguardTeam/urlfilter/filterutil"
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/filterutil"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 const (

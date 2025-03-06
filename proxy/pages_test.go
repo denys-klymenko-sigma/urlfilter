@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 
 	"github.com/stretchr/testify/assert"
 )

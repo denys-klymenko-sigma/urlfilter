@@ -16,7 +16,7 @@ import (
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/gomitmproxy"
 	"github.com/AdguardTeam/gomitmproxy/mitm"
-	"github.com/AdguardTeam/urlfilter/proxy"
+	"github.com/denys-klymenko-sigma/urlfilter/proxy"
 	goFlags "github.com/jessevdk/go-flags"
 )
 

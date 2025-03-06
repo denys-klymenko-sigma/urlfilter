@@ -1,8 +1,8 @@
 package urlfilter
 
 import (
-	"github.com/AdguardTeam/urlfilter/filterlist"
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/filterlist"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 )
 
 // Engine represents the filtering engine with all the loaded rules

@@ -3,7 +3,7 @@ package urlfilter
 import (
 	"slices"
 
-	"github.com/AdguardTeam/urlfilter/rules"
+	"github.com/denys-klymenko-sigma/urlfilter/rules"
 	"github.com/miekg/dns"
 )
 

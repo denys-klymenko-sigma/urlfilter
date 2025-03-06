@@ -6,7 +6,7 @@ import (
 
 	"github.com/AdguardTeam/golibs/log"
 
-	"github.com/AdguardTeam/urlfilter"
+	"github.com/denys-klymenko-sigma/urlfilter"
 )
 
 func TestContentScriptTmpl(t *testing.T) {
