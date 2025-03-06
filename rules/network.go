@@ -271,6 +271,15 @@ func (f *NetworkRule) GetPermittedDomains() []string {
 	return f.permittedDomains
 }
 
+// GetDenyAllowDomains - returns an array of denay allow domains
+func (f *NetworkRule) GetDenyAllowDomains() []string {
+	return f.denyAllowDomains
+}
+
+func (f *NetworkRule) SetDenyAllowDomains(domains []string) {
+	f.denyAllowDomains = domains
+}
+
 // IsHostLevelNetworkRule checks if this rule can be used for hosts-level blocking
 func (f *NetworkRule) IsHostLevelNetworkRule() bool {
 	if len(f.permittedDomains) > 0 || len(f.restrictedDomains) > 0 {
